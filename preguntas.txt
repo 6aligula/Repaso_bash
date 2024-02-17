@@ -1,0 +1,11 @@
+Preguntas para Practicar
+1 ¿Cómo mostrarías el contenido del archivo datos.txt?
+2 ¿Cómo contarías el número de frutas listadas en el archivo?
+3 ¿Cómo filtrarías solo las líneas que contienen 'Manzana'?
+4 ¿Cómo mostrarías solo los nombres de las frutas del archivo?
+5 ¿Cómo añadirías 'Fresa,5,0.55' al final del archivo?
+6 ¿Cómo cambiarías el precio de la Banana de 0.30 a 0.35?
+7 ¿Cómo listarías todas las frutas con una cantidad menor a 10?
+8 ¿Cómo mostrarías solo las frutas cuyo precio es mayor a 0.40?
+9 ¿Cómo guardarías los nombres de todas las frutas en un nuevo archivo llamado nombres.txt?
+10 ¿Cómo mostrarías el número total (suma) de todas las frutas?

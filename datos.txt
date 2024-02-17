@@ -1,0 +1,6 @@
+Nombre,Cantidad,Precio
+Manzana,10,0.50
+Banana,20,0.30
+Naranja,15,0.40
+Pera,12,0.45
+Kiwi,8,0.75
