@@ -4,3 +4,6 @@ Banana,20,0.30
 Naranja,15,0.40
 Pera,12,0.45
 Kiwi,8,0.75
+Fresa,5,0.55
+
+Fresa,5,0.55
